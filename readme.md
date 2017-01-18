@@ -26,4 +26,4 @@ If there are some missing dll files :
 * or reinstall all  packages  (nuget restore {path}\YourSolution.sln) see [http://docs.nuget.org/docs/reference/command-line-reference#Restore_command](http://docs.nuget.org/docs/reference/command-line-reference#Restore_command)
 
 
-* Edit the connexion string in the  Web.Config file to setup your database (see BlogMvcContext)
+* Edit the connection string in the  Web.Config file to setup your database (see BlogMvcContext)
